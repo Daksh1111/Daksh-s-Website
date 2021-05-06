@@ -1,0 +1,35 @@
+body {
+    text-align: center;
+
+}
+
+h1 {
+    font-size: 50px;
+    font-family: cursive;
+}
+
+#app {
+    width: 100%;
+    background: linear-gradient(#fc3b00 0%, #ff8000 100%);
+}
+
+#games {
+    width: 100%;
+    background: linear-gradient(#ff8000 0%, #ffd000 100%);
+}
+
+#chatbot {
+    width: 100%;
+    background: linear-gradient(#ffd000 0%, #91ff00 100%);
+}
+
+
+img {
+    transition: transform .2s;
+
+}
+
+img:hover {
+    transform: scale(0.9);
+
+}
